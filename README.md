@@ -1,11 +1,16 @@
 -------------------
-*Titulo Projeto* Meu Personal
+*Workout Everywhere*
 -------------------
 🙁 _*Problema:*_ Auxiliar o usuário a se exercitar de forma autônoma, seja em casa ou na academia.
+
 🙂 _*Nicho:*_Pessoas de qualquer gênero e idade  
+
 🎁 _*Proposta de Valor:*_O aplicativo será o seu personal, indicando exercícios para partes específicas do corpo com vídeo demonstrativo e opção com e sem aparelhos. Você também poderá ao final da semana verificar qual grupo muscular faltou treinar.
-🧑‍💻👩‍💻 _*Equipe:*_Luciane Paula Vital, Luiz Felipe Araújo de Andrade, Vinícius Guimarães de Oliveira e Vinícius Possatto da Silva  
+
+👩‍💻 _*Equipe:*_Luciane Paula Vital, Luiz Felipe Araújo de Andrade, Vinícius Guimarães de Oliveira e Vinícius Possatto da Silva  
+
 🛠️ _*Recursos/Tecnologias Utilizados:*_
+
 -------------------
 💡 *PMI I*
 
